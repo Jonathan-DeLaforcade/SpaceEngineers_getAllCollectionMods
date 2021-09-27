@@ -1,0 +1,100 @@
+(DX11) Tiered Atmospheric Engines
+(DX11) Tiered Thruster Pack
+Advanced Turret Control
+Ashcorp - Hornet Hangar Door [DX11 only, Abandoned]
+Azimuth Reactor Pack~(DX-11 Ready)
+Camera Panning - rotate camera view (+reset 1st person character view)
+Cargo Container Filters
+Centred Solar Panels
+Conveyor Air Vent - full sized block (and slope!)
+Defense Shields - v2.0(24)
+High Range Ore Detectors
+Window Doors
+Rotary Airlock
+OKI Grand Weapons Bundle
+[MAD] More Conveyors
+More Pistons
+S - Signs 3 \/ LCD - DX11
+Critical Reactor Explosions
+Exploding Gas Tanks
+Jump Drive Critical Explosion
+Fusion Warheads
+Magnetic Landing Pad
+Corner LCD
+Better Alarms (inc. Stargate)
+Azimuth Cargo Container~(DX-11 Ready)
+Elite Dangerous Ship Voices for Soundblock
+Clean Camera
+Block Combinations V2
+VCZ Multifloor Elevator
+S - HangarDoor - DX11
+Cockpits With More LCDs
+Radio Detection and Ranging (Radar)
+Automatic Ore Pickup
+Text HUD API
+MCM Landing Elevator
+Tractor Beam
+Attachments - large to small grid without limits!
+Button Panels Mod Pack DX-11(Updated)
+Armor Ramp Compendium
+Atlantean Transporters
+Automated Inventory Sorting (Custom Data + Economy Update)
+Colorful Rendering
+Corner Lights
+Easy Inventory
+High Power Spotlight
+Jump Drive Disruptor Turret
+Jump Drive Inhibitor
+Large Fusion Drive - Hydrogen Thruster (Large and Small Grid)
+Midspace's Large Ship Speed Unlimited mod
+Midspace's Small Ship Speed 1000 mod
+NiteOwl Mini Reactor Pack
+No Edges
+Perpetually Perturbed Pirates
+S - Airtight ForceField v2.1 Invisible - DX11
+SGA Light Remastered
+Solar Windows
+Stargate Atlantis Lantean Drone Platform - MP!!!
+Stargate Transporter Rings
+Tiered Batteries Continued
+Ultima Jump Drive
+WeaponCore - 1.7(12)
+[New Version] Stargate Modpack (Economy Support!)
+GH-EnergyTurrets(WeaponCore)
+Stargate Ancient Control Chair
+Space Just Got Real (1.188 Update 4)
+HUD Colors
+Colorful Icons
+Emissive Colors - Red \/ Green Color Vision Deficiency
+S - Ancient blocks pack - DX11
+Exilia_SpawnMenu","description":"
+Terra - realistic geography
+(DX11) Telescope
+(DX11)Minotaur Cannon
+Accessible Conveyors - Re-created with 2018 Model
+Midspace's Configurable Max Ship Speed Mod [EOL]
+Transporter (1.199)
+(DX11) Kolt - Command Console Pack
+AQD - Armor Expansion
+Directed Energy Weapons - Semi-obsolete
+Faux Ship Lights (New Block Shapes Added)
+NanobotDrillSystem fix
+Particle Performance Optimization Pack [UPDATED]
+Reworked Armor Ramps Mod~(DX-11 Ready)
+SGA Blocks - Revised
+Stone And Ice Duster No Gravel
+Warbros ModLabs Long Ramps
+VCZ Airtight Connector
+Slyke's Glowing Blocks
+Air Traffic
+Atlantis LCD Images (Stargate Atlantis)
+[EEM] Exploration Enhancement Mod
+Weather Rebalance
+RivalAI
+Modular Encounters Spawner
+NPC Defense Shields Provider
+NPC Programming Extender
+Nanite Control Facility v2.0(15) - Automated Construction
+[Retired] Tiered Gyroscopes
+S - Retractable Tunnel - DX11
+PassageIntersections
